@@ -1,2 +1,98 @@
-<html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Full Stack Java - Part 2 Introduction</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 40px; background-color: #f9f9f9; color: #333;">
+    <h1>Full Stack Web Development in Java - Part 2</h1>
+    <h2>Introduction</h2>
+    <p>Welcome to our course on Full Stack Web Development using Java. In this session, we’ll understand what it means to be a full stack developer, why Java is a powerful choice, and we’ll even set up our first simple project.</p>
+
+    <h2>What is Full Stack Development?</h2>
+    <p>A full stack developer is someone who can work on:</p>
+    <ul>
+        <li><strong>Frontend</strong> – the part users see (HTML, CSS, JavaScript)</li>
+        <li><strong>Backend</strong> – the part users don’t see (Java, database logic)</li>
+        <li><strong>Database</strong> – storing and managing data (MySQL, MongoDB)</li>
+    </ul>
+    <p><strong>Analogy:</strong> Think of building a website like running a restaurant:</p>
+    <ul>
+        <li>Frontend is the menu and service</li>
+        <li>Backend is the kitchen</li>
+        <li>Database is the storage of ingredients</li>
+    </ul>
+
+    <h2>Java for Full Stack Development</h2>
+    <h3>1. Front-end Technologies</h3>
+    <ul>
+        <li>HTML, CSS, JavaScript</li>
+        <li>Modern frameworks: Angular, React, Vue</li>
+        <li>Node.js and NPM for JavaScript runtime and package management</li>
+    </ul>
+
+    <h3>2. Back-end Technologies</h3>
+    <ul>
+        <li>Core Java – foundation for Java EE</li>
+        <li>Spring Framework & Spring Boot – simplify enterprise Java development</li>
+        <li>Hibernate – ORM for database interaction</li>
+        <li>Spring Security – authentication & authorization</li>
+        <li>Microservices – using Spring Boot & Spring Cloud</li>
+    </ul>
+
+    <h3>3. Databases</h3>
+    <ul>
+        <li>Relational: MySQL, PostgreSQL, Oracle</li>
+        <li>NoSQL: MongoDB</li>
+    </ul>
+
+    <h3>4. Tools</h3>
+    <ul>
+        <li>Apache Maven, Gradle, Git, Jenkins</li>
+        <li>Eclipse, IntelliJ IDEA, Docker, JIRA</li>
+        <li>Apache Ant, Java Decompiler</li>
+    </ul>
+
+    <h2>Live Demo: Spring Boot Setup</h2>
+    <ol>
+        <li>Visit <a href="https://start.spring.io">https://start.spring.io</a></li>
+        <li>Select Maven, Java, Spring Boot 3.x</li>
+        <li>Add dependencies: Spring Web, Spring Data JPA, MySQL Driver</li>
+        <li>Generate and extract ZIP file</li>
+        <li>Open in IntelliJ or Eclipse</li>
+        <li>Create a REST Controller:
+            <pre><code>
+@RestController
+public class HelloController {
+    @GetMapping("/hello")
+    public String sayHello() {
+        return "Hello from Spring Boot!";
+    }
+}
+            </code></pre>
+        </li>
+        <li>Run and access <code>http://localhost:8080/hello</code></li>
+    </ol>
+
+    <h2>Homework</h2>
+    <p>Create your own Spring Boot project and change the message in the /hello API. Upload a screenshot of the result in the next class.</p>
+
+    <h2>Summary</h2>
+    <ul>
+        <li>Full stack = frontend + backend + database</li>
+        <li>Java is strong in backend development (Spring Boot, JPA)</li>
+        <li>Tools: Spring Boot, IntelliJ, MySQL, Postman</li>
+        <li>Demo: Created a basic Spring Boot project</li>
+    </ul>
+
+    <h2>Resources</h2>
+    <ul>
+        <li><a href="https://spring.io/guides/gs/spring-boot/">Spring Boot Getting Started Guide</a></li>
+        <li><a href="https://roadmap.sh/java">Java Full Stack Roadmap</a></li>
+        <li><a href="https://www.postman.com/">Postman</a></li>
+        <li><a href="https://github.com/">GitHub Account Setup</a></li>
+    </ul>
+</body>
 </html>
