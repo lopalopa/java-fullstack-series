@@ -1,78 +1,112 @@
 # 🌐 Java Full Stack Web Development Series – YouTube Project Repository
 
-Welcome to the official GitHub repository for my **Java Full Stack Web Development YouTube Series**! 🎉
-
-This repository will help you follow along with the YouTube video tutorials and access all the source code, project files, and structured folders.
+Welcome to the official GitHub repository for my **Java Full Stack Web Development YouTube Series**! 🎉  
+This repository complements my tutorial series for beginners, students, and aspiring full stack Java developers.
 
 ---
 
 ## 📌 Who is this for?
 
-This course is **specially designed for**:
+This series is **designed especially for**:
 
-- Beginners starting their web development journey
-- Students of BCA, MCA, B.Tech, etc.
-- Anyone who wants to become a **Java Full Stack Developer**
+- BCA / MCA / B.Tech / M.Tech students
+- Beginners in web development
+- Anyone aiming to become a **Java Full Stack Developer**
 
-You’ll learn full-stack web development using:
-- ✅ **Core Java**
-- ✅ **Spring Boot**
-- ✅ **MySQL**
-- ✅ **HTML, CSS, JavaScript**
-- ✅ **React.js**
-- ✅ ...and more!
+You’ll learn full-stack development using:
+
+- ✅ Core Java & Advanced Java
+- ✅ HTML, CSS, JavaScript
+- ✅ JSP, Servlet, JDBC
+- ✅ Spring Boot
+- ✅ MySQL
+- ✅ Microservices & more
 
 ---
 
 ## 🎥 YouTube Playlist
 
-👉 Watch the full video series on YouTube here:  
-**[📺 Java Full Stack Web Development Series]([https://lnkd.in/gZnJ3Cpb])**  
-(*Don’t forget to subscribe and hit the bell icon!* 🔔)
+👉 Watch the full video series on YouTube:  
+**[📺 Java Full Stack Web Development Series](https://lopalopa.github.io/java-fullstack-series/Part-02-Programming-Concept/)**  
+(*Subscribe and stay updated with new videos!* 🔔)
 
 ---
 
-## 📁 Project Folder Structure
+## 🌱 Course Structure – 70 Chapters
 
-Each part of the series has a dedicated folder containing source code, notes, and supporting files. Here's how the structure looks:
+| Chapter No | Topic |
+|------------|-------|
+| 1 | Full Stack Web Development in Java |
+| 2 | Essential Programming Concepts |
 
-| Part No. | Topic                               | Folder Name                  |
-|----------|-------------------------------------|------------------------------|
-| 01       | Introduction & Overview             | `Part-01-Introduction`       |
-| 02       | Java & Eclipse IDE Installation     | `Part-02-EnvironmentSetup`   |
-| 03       | Java Basics (Syntax, Data Types)    | `Part-03-CoreJava`           |
-| 04       | Spring Boot Project Setup           | `Part-04-SpringBoot`         |
-| ...      | (Upcoming modules will be added)    |                              |
+**Core Java**
+| 3-23 | Java basics, OOPs, Exception Handling, Collections, JDBC, GUI Programming, Project |
 
-> ✅ Each folder contains clear code and README notes for that part.
+**HTML, CSS & JavaScript**
+| 24-33 | HTML, CSS, JavaScript Fundamentals + Mini Project |
 
----
+**MySQL**
+| 34-40 | SQL Commands, Joins, Subqueries, Indexing |
 
-## 📬 Stay Connected with Me
+**Advanced Java**
+| 41-70 | Servlets, JSP, JSTL, EJB, JPA, Spring Boot, Security, Microservices, JavaFX, Design Patterns |
 
-Let's grow together! Reach out or follow me on:
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rashmi-mishra-187734106/)
-- 💼 [My Portfolio Website](https://lopalopa.github.io/freelancer-portfolio/)
-- 📧 Email: `rashmipravamishra@gmail.com`
-- 🧠 GitHub: [github.com/yourusername](https://github.com/lopalopa)
+> ✨ Each chapter is listed on the [course roadmap](https://lopalopa.github.io/java-fullstack-series/Part-02-Programming-Concept/) webpage with notes, source code, and examples.
 
 ---
 
-## ⭐ Support This Project
+## 📁 Folder Structure
 
-If you find this series helpful:
+Each chapter/part will have its own folder containing:
 
-- 🌟 **Star this repository**
-- 🔁 **Share with friends and classmates**
-- 💬 Comment your feedback on YouTube
+| Part No | Topic                            | Folder Name                           |
+|---------|----------------------------------|----------------------------------------|
+| 01      | Introduction                     | `Part-01-Introduction`                 |
+| 02      | Programming Concepts             | `Part-02-Programming-Concept`          |
+| 03      | Java Setup & Basics              | `Part-03-CoreJava`                     |
+| 04      | Web Fundamentals (HTML, CSS, JS) | `Part-04-Web-Fundamentals`            |
+| 05      | Spring Boot Setup & REST APIs    | `Part-05-SpringBoot`                  |
+| ...     | Upcoming Chapters                | `Part-XX-*`                            |
+
+---
+
+## 💡 How to Use This Repository
+
+1. 📥 Clone or download the repo
+2. 📁 Navigate to the folder for the chapter you’re following
+3. 🧑‍💻 Open source code in your IDE (Eclipse, IntelliJ, VSCode, etc.)
+4. 🔄 Follow along with the YouTube video and practice
+
+---
+
+## 🔗 Useful Links
+
+- 🎬 YouTube Playlist: [Java Full Stack Series](https://lopalopa.github.io/java-fullstack-series/Part-02-Programming-Concept/)
+- 🌐 Blog/Website: [Java Full Stack Web Course](https://lopalopa.github.io/java-fullstack-series/)
+- 📚 Portfolio: [Rashmi Mam Portfolio](https://lopalopa.github.io/freelancer-portfolio/)
+- 🧠 GitHub: [github.com/lopalopa](https://github.com/lopalopa)
+- 📧 Email: rashmipravamishra@gmail.com
+- 📸 Instagram: [@webdevwithrashmimam](https://www.instagram.com/webdevwithrashmimam)
+
+---
+
+## ⭐ Support & Share
+
+If you find this helpful:
+
+- 🌟 Star the repository
+- 🤝 Share it with friends & classmates
+- 💬 Give feedback in comments
+- 🧵 Follow updates on Instagram: [@webdevwithrashmimam](https://www.instagram.com/webdevwithrashmimam)
 
 ---
 
 ## 🔒 License
 
-This project is licensed under the [MIT License](LICENSE).
+Licensed under the [MIT License](LICENSE).
 
 ---
 
-> 🎯 _Learning full-stack development is a journey — take it step-by-step, code along, and build real-world projects with me!_
+> 🚀 _Let’s build real-world full stack projects, learn hands-on coding, and grow together in this journey!_  
+> 💪 _Follow @webdevwithrashmimam for daily updates and tips!_
+
